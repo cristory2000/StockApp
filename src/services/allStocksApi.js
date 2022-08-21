@@ -1,9 +1,10 @@
 import {createApi,fetchBaseQuery} from '@reduxjs/toolkit/query/react'
 const groupsApiHeaders={
-    'X-RapidAPI-Key': '8fad3fccc2msh746d77a8bb76f9ep19f787jsn1bd87da49a8a',
-    'X-RapidAPI-Host': 'twelve-data1.p.rapidapi.com'
+    'X-RapidAPI-Key': process.env.REACT_APP_RAPIDAPI_KEY,
+    'X-RapidAPI-Host': process.env.REACT_APP_ALLSTOCKSAPI_HOST
 }
-const baseUrl='https://twelve-data1.p.rapidapi.com'
+const baseUrl=process.env.REACT_APP_ALLSTOCKSAPI_URL
+
 const params={exchange: 'NASDAQ', format: 'json'}
 const createRequest=(url)=> ({method:'GET',url,params,headers:groupsApiHeaders})
 
