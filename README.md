@@ -11,7 +11,7 @@
             <img alt="Chart" src="/pictures/Chart.png" width ="500"/>
     <h2><li>News</li></h2>
             <img alt="Chart" src="/pictures/News.png" width ="500"/>
-    <h2><li>List</li></h2>
+    <h2><li>All Stocks</li></h2>
             <img alt="Chart" src="/pictures/List.png" width ="500"/>
 </ul>
 
