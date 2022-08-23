@@ -7,8 +7,7 @@
 </p>
 
 <ul>
-    
-        <li>Stock Prices</li>
+    <li>Stock Prices</li>
             <img alt="Chart" src="/pictures/Chart.png" width ="500"/>
     <h2 align="center">News</h2>
         <li> <img alt="News" src="/pictures/News.png" width ="500"/></li>
