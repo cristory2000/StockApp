@@ -1,5 +1,5 @@
 <p align = "center">
-    <img alt="Home" src="/pictures/Home.png" width ="500" height="300"/>
+    <img alt="Home" src="/pictures/Home.png" width ="500" height="400"/>
 </p>
 <h1 align="center">Stock App</h1>
 <p>
